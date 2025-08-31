@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-book-night: #14151A;
+  --color-book-white: #FFFFFF;
+  --color-book-robin-egg-blue: #4ECDC4;
+  --color-book-tiffany-blue: #70D7D0;
+  --color-book-light-red: #FF6B6B;
+  --color-book-naples-yellow: #FFE66D;
+}
